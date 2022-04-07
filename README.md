@@ -1,2 +1,7 @@
 # React-Native-Proj2
-Calculator
+
+Calculator App
+
+Libraries used : 
+
+* Swiss Calc Library
